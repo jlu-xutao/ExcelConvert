@@ -1,0 +1,23 @@
+{
+  "name": "excelconvert",
+  "version": "1.0.0",
+  "description": "excel文件转换",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlu-xutao/ExcelConvert.git"
+  },
+  "author": "xutao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlu-xutao/ExcelConvert/issues"
+  },
+  "homepage": "https://github.com/jlu-xutao/ExcelConvert#readme",
+  "dependencies": {
+    "xlsx": "^0.15.4"
+  }
+}
